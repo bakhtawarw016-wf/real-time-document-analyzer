@@ -20,7 +20,6 @@ Real-Time Document Analyzer is an AI-powered application that extracts text from
 
 🏆 Achievement
 🥈 Awarded *2nd Position* in the AI Project Competition at the Artificial Intelligence Revolution – Emerging Technology Project Fair (2025).
-
  👩‍💻 Developer
 Bakhtawar Wahid
 BS Computer Science Student
